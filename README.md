@@ -80,6 +80,3 @@ Now, open your browser and visit http://localhost:3000
 
 [![meme](https://media.giphy.com/media/l2Sqj1vsFCSCs6k5G/giphy.gif)](https://media.giphy.com/media/l2Sqj1vsFCSCs6k5G/giphy.gif)
 
-~~~css
-.button { border: none; }
-~~~
